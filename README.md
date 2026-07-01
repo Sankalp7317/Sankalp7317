@@ -1,8 +1,8 @@
 <picture>
   <!-- Source for dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="/light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/2.png">
   <!-- Fallback image for light mode and other clients -->
-  <img alt="My Alt Text" src="/dark.png">
+  <img alt="My Alt Text" src="/1.png">
 </picture>
 
 # Hi, I'm Sankalp Sachan 👋
