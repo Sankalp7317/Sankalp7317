@@ -1,23 +1,7 @@
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-dark.png">
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-light.png">
-
-  <img
-    src="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-light.png"
-    width="100%"
-    alt="Sankalp Sachan Banner">
-
-</picture>
-
-</div>
-
+<p align="center">
+  <img src="./banner-light.png#gh-light-mode-only" alt="Light Banner" width="100%">
+  <img src="./banner-dark.png#gh-dark-mode-only" alt="Dark Banner" width="100%">
+</p>
 
 # Hi, I'm Sankalp Sachan 👋
 
