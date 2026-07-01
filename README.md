@@ -189,6 +189,13 @@ Projects include:
 
 </p>
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sankalp7317/sankalp7317/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 ---
 
 # 📚 Currently Learning
