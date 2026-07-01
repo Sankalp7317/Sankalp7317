@@ -1,6 +1,9 @@
-<picture> <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png"> <source media="(prefers-color-scheme: light)" srcset="banner-light.png"> <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png"> </picture>
-
-
+<picture>
+  <!-- Source for dark mode -->
+  <source media="(prefers-color-scheme: dark)" srcset="/light.png">
+  <!-- Fallback image for light mode and other clients -->
+  <img alt="My Alt Text" src="/dark.png">
+</picture>
 
 # Hi, I'm Sankalp Sachan 👋
 
