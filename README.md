@@ -1,7 +1,17 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-light.png#gh-light-mode-only" width="100%">
-  <img src="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-dark.png#gh-dark-mode-only" width="100%">
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/user-attachments/assets/fe261521-60bd-4e25-b7a2-754be504482e">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/user-attachments/assets/183776cd-d84b-44c9-b0d8-f531f50f351f">
+  <img
+    src="YOUR_LIGHT_IMAGE_URL"
+    alt="Banner"
+    width="100%">
+</picture>
+
+
 
 # Hi, I'm Sankalp Sachan 👋
 
