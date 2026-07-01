@@ -124,9 +124,28 @@ A modern JavaFX desktop application designed to help users build better habits t
 
 ---
 
-## 📱 FSmoking
+## 🚭 FSmoking
 
-A productivity-focused Android application that helps users reduce excessive scrolling and build healthier digital habits.
+A mobile application built to help people take control of their smoking habits and gradually overcome nicotine addiction through habit tracking, progress monitoring, and motivational support.
+
+### ✨ Features
+
+- 🚭 Track daily cigarette consumption
+- 📅 Monitor smoking history and progress
+- 🔥 Maintain smoke-free streaks
+- 🎯 Set personalized quit goals
+- 📊 Visualize progress with statistics and insights
+- 💡 Receive motivational reminders and encouragement
+- 🏆 Celebrate milestones and achievements
+- 📱 Clean, intuitive, and user-friendly interface
+
+### 🛠️ Tech Stack
+
+- Java
+- Android Studio
+- Material Design
+- SQLite / Local Database
+- XML
 
 ---
 
@@ -149,19 +168,20 @@ A collection of responsive websites built using HTML, CSS, and JavaScript.
 Projects include:
 
 - Netflix Clone
-- Weather App
-- To-Do List
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sankalp7317&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp7317&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Sankalp7317&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp7317&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
