@@ -1,15 +1,9 @@
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/user-attachments/assets/fe261521-60bd-4e25-b7a2-754be504482e">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/user-attachments/assets/183776cd-d84b-44c9-b0d8-f531f50f351f">
-  <img
-    src="YOUR_LIGHT_IMAGE_URL"
-    alt="Banner"
-    width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/w.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiorgosXou/Random-stuff/main/Programming/StackOverflow/Answers/70200610_11465149/b.png">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
 
 
 
