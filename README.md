@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="1983" height="793" alt="Banner" src="https://github.com/user-attachments/assets/e2d7bd5c-4abc-4e8a-b063-b7d3f8757649" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./images/banner-light.png">
+  <img alt="Sankalp Sachan Banner" src="./images/banner-light.png" width="100%">
+</picture>
+
+</div>
 
 
 # Hi, I'm Sankalp Sachan 👋
