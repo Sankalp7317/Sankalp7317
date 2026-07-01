@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Sankalp Sachan
@@ -247,4 +246,3 @@ Projects include:
 ⭐ Thanks for visiting my profile!
 
 </div>
-```
