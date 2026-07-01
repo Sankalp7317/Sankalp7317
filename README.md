@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./banner-light.png#gh-light-mode-only" alt="Light Banner" width="100%">
-  <img src="./banner-dark.png#gh-dark-mode-only" alt="Dark Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-light.png#gh-light-mode-only" width="100%">
+  <img src="https://raw.githubusercontent.com/Sankalp7317/Sankalp7317/main/banner-dark.png#gh-dark-mode-only" width="100%">
 </p>
 
 # Hi, I'm Sankalp Sachan 👋
