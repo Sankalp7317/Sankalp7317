@@ -217,6 +217,9 @@ Projects include:
 - ✅ Learn scalable system design
 - ✅ Secure a Software Developer role
 
+## ⚡ Fun Fact
+
+I build software because I can—and because great ideas deserve to exist.
 ---
 
 # 🤝 Let's Connect
