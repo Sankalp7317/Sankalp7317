@@ -171,21 +171,6 @@ Projects include:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Sankalp7317&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp7317&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -201,16 +186,6 @@ Projects include:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalp7317&theme=github-compact"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sankalp7317&theme=algolia&no-frame=true&column=4"/>
 
 </p>
 
