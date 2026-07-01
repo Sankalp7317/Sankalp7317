@@ -1,70 +1,149 @@
+```markdown
 <div align="center">
 
-# Hi there, I'm Sankalp Sachan 👋
+# 👋 Hi, I'm Sankalp Sachan
 
-### Java Developer • Android Developer • Full Stack Developer
+### Software Developer • Java Developer • Full-Stack Web Developer • Android Developer
 
-Building clean, scalable applications with Java, Spring Boot, Android, and modern web technologies.
+Building scalable software, desktop applications, Android apps, and modern web applications with a passion for clean architecture and intuitive user experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sankalp-sachan-05a5b2397/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Sankalp7317@gmail.com)
+<p>
+<a href="https://github.com/Sankalp7317"><img src="https://img.shields.io/badge/GitHub-Sankalp7317-181717?style=for-the-badge&logo=github"></a>
+<a href="https://www.linkedin.com/in/sankalp-sachan-05a5b2397/"><img src="https://img.shields.io/badge/LinkedIn-Sankalp%20Sachan-0A66C2?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:Sankalp7317@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Developer;Java+%7C+Spring+Boot+Developer;Android+Application+Developer;Full-Stack+Web+Developer;Always+Learning+Something+New"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💼 About Me
 
-- 💻 Java Developer passionate about building real-world software
-- 📱 Android Developer using Java
-- 🌱 Currently learning Spring Boot, Microservices, and System Design
-- 🚀 Building projects that solve practical problems
-- 🎯 Looking for Software Developer opportunities
+I'm a software developer who enjoys building applications that solve real-world problems.
 
----
+My primary focus is **Java development**, including backend systems with Spring Boot, desktop applications using JavaFX, Android development, and responsive full-stack web applications.
 
-## 🛠 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-
-### Frameworks & Tools
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=for-the-badge&logo=androidstudio)
-![JavaFX](https://img.shields.io/badge/JavaFX-black?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+I'm continuously learning new technologies while improving my understanding of software engineering principles, scalable architectures, and clean code practices.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Current Focus
 
-### 📅 Habit Tracker
+- ☕ Java Development
+- 🌱 Spring Boot & Microservices
+- 📱 Android Development (Java)
+- 🖥️ JavaFX Desktop Applications
+- 🌐 Full-Stack Web Development
+- 📚 System Design
+- ☁️ Docker & Cloud Technologies
 
-A modern JavaFX desktop application featuring:
+---
 
-- Calendar View
+# 🛠 Tech Stack
+
+## Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,c,js,html,css,sql"/>
+</p>
+
+---
+
+## Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js"/>
+</p>
+
+---
+
+## Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+</p>
+
+**Backend Technologies**
+
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
+- Microservices
+- Maven
+
+---
+
+## Mobile & Desktop Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio"/>
+</p>
+
+- Android Development (Java)
+- JavaFX
+- Desktop Application Development
+
+---
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+- MySQL
+- JDBC
+- SQL
+
+---
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,eclipse,figma"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 📅 Habit Tracker
+
+A modern JavaFX desktop application designed to help users build better habits through an intuitive interface.
+
+**Features**
+
+- Calendar Integration
+- Daily Habit Tracking
+- Statistics Dashboard
 - Dark & Light Theme
-- Habit Analytics
-- Productivity Dashboard
+- Local Database
+- Modern UI
 
 ---
 
-### 📱 FSmoking
+## 📱 FSmoking
 
-Android application designed to help users reduce excessive scrolling and build healthier digital habits.
+A productivity-focused Android application that helps users reduce excessive scrolling and build healthier digital habits.
 
 ---
 
-### 🌐 Clone Projects
+## 🏥 Hospital Management System
+
+Desktop software developed in Java for managing patients, appointments, and hospital operations.
+
+---
+
+## 🛒 E-Commerce Website
+
+A full-stack web application featuring authentication, responsive UI, backend APIs, and database integration.
+
+---
+
+## 🎬 Frontend Clone Collection
 
 A collection of responsive websites built using HTML, CSS, and JavaScript.
 
@@ -76,25 +155,19 @@ Projects include:
 
 ---
 
-### 🏥 Hospital Management System
-
-Desktop management software built using Java.
-
----
-
-## 📈 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankalp7317&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sankalp7317&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp7317&layout=compact&theme=github_dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankalp7317&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -104,7 +177,7 @@ Desktop management software built using Java.
 
 ---
 
-## 📊 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -114,29 +187,64 @@ Desktop management software built using Java.
 
 ---
 
-## 🎯 Current Focus
+# 🏆 GitHub Trophies
 
-- Spring Boot
-- Android Development
-- JavaFX
-- REST APIs
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sankalp7317&theme=algolia&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Spring Boot
+- Software Architecture
+- Design Patterns
 - Microservices
+- Docker
+- Cloud Deployment
 - System Design
 
 ---
 
-## 📫 Connect With Me
+# 🎯 2026 Goals
 
-- 📧 **Email:** Sankalp7317@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/sankalp-sachan-05a5b2397/
-- 🌐 **GitHub:** https://github.com/Sankalp7317
+- ✅ Publish production-ready Android applications
+- ✅ Contribute to Open Source
+- ✅ Build high-quality Java desktop software
+- ✅ Strengthen backend engineering skills
+- ✅ Learn scalable system design
+- ✅ Secure a Software Developer role
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/Sankalp7317">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sankalp-sachan-05a5b2397/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:Sankalp7317@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### "Building software that makes a difference."
 
-*"Code. Learn. Improve. Repeat."*
+⭐ Thanks for visiting my profile!
 
 </div>
+```
